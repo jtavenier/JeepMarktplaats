@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "***REMOVED***.com.thewaveapp.thewave",
+                "paths": [ "/product/*"]
+            }
+        ]
+    }
+}
